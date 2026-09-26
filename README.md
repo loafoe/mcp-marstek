@@ -10,12 +10,14 @@ Built with the official
 ## Disclaimer
 
 This project is not affiliated with, endorsed by, or connected to Marstek in
-any way. This is an independent, community-developed tool.
+any way. This is an independent, community-developed server based on publicly
+available API documentation.
 
 **USE AT YOUR OWN RISK.** This software interacts with battery hardware and
 energy systems. Improper use could potentially affect your battery system's
 operation. The authors and contributors are not responsible for any damage,
-data loss, or other issues that may arise from using this software.
+data loss, or other issues that may arise from using this software. Always
+ensure you understand the commands you are sending to your device.
 
 ## Prerequisites
 
