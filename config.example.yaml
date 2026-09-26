@@ -1,0 +1,14 @@
+# mcp-marstek example configuration.
+#
+# Values may reference environment variables via ${VAR_NAME}.
+#
+# The battery address is required. Port defaults to 30000.
+
+battery:
+  addr: "${MCP_MARSTEK_BATTERY_ADDR}"
+  port: 30000
+  timeout: 10s
+  # instance_id: 0
+
+# Set to true to disable write tools (read-only mode)
+read_only: false
